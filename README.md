@@ -1,1 +1,1 @@
-# arxiv-gpt
+researchGPT
